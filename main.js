@@ -1,2 +1,3 @@
 console.log("Xin chao")
-console.log(1231232)
+var x=10;
+console.log(x)
